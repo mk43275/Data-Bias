@@ -24,4 +24,5 @@ Conclusion:
 
 - For the majority, the 5 Least commonly used curse words did have the highest percentage with the word "you" except for one, which was 'arse', and its highest percentage was 78.57% when it was with the word "you" and others, so using the other word just amplified it more.
 
+- BIAS could be included with the small sampling and the sample itself that I chose to use from Google. It was one article I found, so it might vary in other studies.
 
